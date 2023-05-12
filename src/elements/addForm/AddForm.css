@@ -1,0 +1,18 @@
+.addForm {
+   
+    width: 300px;
+}
+.addForm form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+
+}
+.addForm input {
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px #333;
+    color: #333;
+
+}
